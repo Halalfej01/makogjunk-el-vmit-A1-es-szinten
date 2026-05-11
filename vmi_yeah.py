@@ -1,5 +1,5 @@
 import turtle as t
-t.speed(0)
+t.speed(1)
 t.width(3)
 
 #haz alja
